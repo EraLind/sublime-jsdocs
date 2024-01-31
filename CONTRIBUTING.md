@@ -1,6 +1,6 @@
 You want to contribute to DocBlockr?
 
-**THEN YOU, SIR OR MADAM, ARE MY FRIEND.**
+# THEN YOU, SIR OR MADAM, ARE MY FRIEND.#*
 
 There's only a couple of things you should know first.
 
@@ -13,4 +13,5 @@ There's only a couple of things you should know first.
   - Spaces, not tabs.
   - Run your code through PEP8, or some linting program.
 
-Thank you!
+Thank you#
+ 
